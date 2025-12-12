@@ -17,11 +17,3 @@
 </body>
 </html>
 
-
-
-.post-title{margin: 10px; 
-color: brown;}
-.post-excerpt{ margin: 10px;
-color: green
-}
-
