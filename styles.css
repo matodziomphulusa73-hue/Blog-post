@@ -19,6 +19,11 @@ text-decoration: none;}
 .read-more:hover{ background-color: pink; }
 body{ background-color: beige;
 font-family: Arial;
+margin: 0;
+padding: 0;
+width: 100vw;
+height: 100vh;
+overflow: hidden;
 }
 .post-title{margin: 10px; 
 color: brown;}
